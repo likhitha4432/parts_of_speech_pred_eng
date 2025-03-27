@@ -10,3 +10,5 @@ Uses a trained neural network model (pos_tag.h5) for prediction.
 Utilizes TF-IDF and Count Vectorizer for text transformation.
 
 Displays the predicted POS tags for the input sentence.
+
+link:https://huggingface.co/spaces/kandasani/Parts_of_Speech_tag_prediction
